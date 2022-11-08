@@ -1,0 +1,173 @@
+#head{
+    display: flex;
+    background-color:black;
+    
+}
+h2{
+    color:white;   
+}
+a{
+    text-decoration: none;
+    /* padding-left:25px ; */
+    color: white;
+}
+#dt{
+margin-left:910px;
+margin-top:14px;
+background-color: white;
+background-color:black;
+}
+.p1{
+    /* border: 1px solid white; */
+    width: 110px;
+    text-align: center;
+    margin-right: 20px;
+display: inline-block;
+background-color: gray;
+height:30px;
+padding-top: 10px;
+border-radius:4px;
+}
+#si{
+    background-color: greenyellow;
+        color: black;
+}
+.p1:hover{
+    /* background-color: red; */
+    color: red;
+    
+}
+#h2{
+    color: black;
+}
+.containor{
+    text-align: center;
+    /* background-color: rgb(138, 211, 211); */
+    width: 100%;
+    height: 1500px;
+    margin-top: -20px;
+}
+#enter{
+    text-align: center;
+    /* border:1px solid black; */
+    width: 750px;
+    height: 900px;
+    margin-left:350px;
+    color: black;
+    background-color:rgb(138, 211, 211);
+    border-radius: 4px;
+}
+/* .la{
+    padding-right:20px;
+
+/* } */
+.in{
+    /* padding-left:50px; */
+    margin-left:15px;
+    text-align: left;
+    border-radius: 3px;
+} 
+.na{
+    padding-left:90px;
+    /* text-align:left; */
+}
+.id{
+    line-height: 40px;
+    margin-right:25px;
+    /* background-color: white; */
+    height: 500px;
+    /* vertical-align: right; */
+}
+label{
+    /* text-align: right; */
+
+}
+.na1{
+    /* margin-top: 25%; */
+    margin-left: -27%;
+}
+#sl{
+    margin-right:185px;
+}
+.ls{
+    /* text-align: left; */
+    margin-right:10px;
+    margin-left:15px;
+    /* height:; */
+}
+select{
+    height: 25px;
+    border-radius: 2px;
+}
+.day{
+    margin-right:280px;
+}
+#la{
+    display:flex;
+    margin-left:97px;
+}
+#maen{
+    line-height: 30px;
+    list-style: none;
+    margin-left:300px;
+    margin-top:-32px;
+}
+#al{
+    display: flex;
+    margin-left:100px;
+    line-height:20px;
+
+}
+#ch{
+    line-height: 30px;
+    list-style: none;
+    margin-left:310px;
+    margin-top:-35px;
+    text-align: left;
+}
+#add{
+    margin-right:340px;
+}
+#ad{
+    margin-left:220px;
+    margin-top:-25px;
+    height:90px;
+    /* width:100px; */
+    border-radius: 5px;
+}
+.su{
+    background-color:skyblue;
+    width: 100px;
+    height: 50px;
+    border-radius: 4px;
+}
+.cl{
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
